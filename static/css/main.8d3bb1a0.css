@@ -58,12 +58,12 @@ a {
     padding-right: 10px !important
 }
 
-.css-195eyf2:hover, .css-195eyf2:active, .css-195eyf2:focus {
-    margin-left: -10rem;
-}
+/*.css-195eyf2:hover, .css-195eyf2:active, .css-195eyf2:focus {
+    margin-left: -2rem;
+}*/
 
 b {
-    text-emphasis: '♥' !important;
+    text-emphasis: '/' !important;
     -webkit-animation: animatedHearts 3s infinite;
     -moz-animation: animatedHearts 3s infinite;
     animation: animatedHearts 3s infinite;
