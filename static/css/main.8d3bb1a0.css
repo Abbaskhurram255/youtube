@@ -56,7 +56,7 @@ a {
 }
 
 b {
-    text-emphasis: '&hearts;';
+    text-emphasis: '♥';
     -webkit-animation: animatedHearts 3s infinite;
     -moz-animation: animatedHearts 3s infinite;
     animation: animatedHearts 3s infinite;
