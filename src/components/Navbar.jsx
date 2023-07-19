@@ -11,7 +11,7 @@ function Navbar() {
       direction="row"
       alignItems="center" 
       p={2}
-      sx={{ position: 'sticky', background: '#000', top: 0, justifyContent: 'space-between'}}
+      sx={{ -webkit-position: 'sticky', -moz-position: 'sticky', position: 'sticky', background: '#000', top: 0, justifyContent: 'space-between'}}
     >
       <Link to="/youtube" style={{ display: 'flex', alignItems: 'center'}}>
         <img src="https://www.youtube.com/s/desktop/6588612c/img/favicon_48x48.png" alt="logo" height={40} />
