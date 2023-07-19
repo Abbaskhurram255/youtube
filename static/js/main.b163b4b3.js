@@ -18141,10 +18141,10 @@
                 ln = n(5732),
                 cn = n(9398),
                 sn = [{
-                    name: "New",
+                    name: "Hot & Trending",
                     icon: (0, v.jsx)(Gt.Z, {})
                 }, {
-                    name: "Music (my fave &hearts;)",
+                    name: "Music (My fave ♥)",
                     icon: (0, v.jsx)(Yt.Z, {})
                 }, {
                     name: "Education",
@@ -18153,10 +18153,10 @@
                     name: "Podcast",
                     icon: (0, v.jsx)(an.Z, {})
                 }, {
-                    name: "Movie",
+                    name: "Movies",
                     icon: (0, v.jsx)(Jt.Z, {})
                 }, {
-                    name: "Gaming",
+                    name: "Gaming... Ugh",
                     icon: (0, v.jsx)(en.Z, {})
                 }, {
                     name: "Programming",
@@ -18165,13 +18165,13 @@
                     name: "Live Now",
                     icon: (0, v.jsx)(tn.Z, {})
                 }, {
-                    name: "Sports",
+                    name: "Sports... Duh",
                     icon: (0, v.jsx)(ln.Z, {})
                 }, {
                     name: "Fashion",
                     icon: (0, v.jsx)(on.Z, {})
                 }, {
-                    name: "Makeup & Beauty",
+                    name: "Makeup & Beauty💗",
                     icon: (0, v.jsx)(rn.Z, {})
                 }, {
                     name: "Comedy",
@@ -19019,7 +19019,7 @@
                                 style: {
                                     color: "#F31503"
                                 },
-                                children: "Videos"
+                                children: " Videos"
                             })]
                         }), (0, v.jsx)(Dn, {
                             videos: l
@@ -19105,7 +19105,7 @@
                                 color: "#F31503"
                             },
                             children: [" ", " ", i, " ", " "]
-                        }), "Videos"]
+                        }), " Videos"]
                     }), (0, v.jsx)(Dn, {
                         videos: r
                     })]
