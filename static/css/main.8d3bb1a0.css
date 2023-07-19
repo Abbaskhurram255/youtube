@@ -56,17 +56,17 @@ a {
 }
 
 b {
-    text-emphasis: '♥';
+    text-emphasis: '♥' !important;
     -webkit-animation: animatedHearts 3s infinite;
     -moz-animation: animatedHearts 3s infinite;
     animation: animatedHearts 3s infinite;
 }
 
 @-webkit-keyframes animatedHearts {
-
+    
     5%,
     100% {
-        texxt-emphasis-color: hotpink;
+        
     }
 
     15% {
@@ -94,7 +94,7 @@ b {
 
     5%,
     100% {
-        texxt-emphasis-color: hotpink;
+        
     }
 
     15% {
@@ -122,7 +122,7 @@ b {
 
     5%,
     100% {
-        texxt-emphasis-color: hotpink;
+        
     }
 
     15% {
