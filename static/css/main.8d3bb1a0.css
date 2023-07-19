@@ -89,7 +89,7 @@ b {
         text-emphasis-color: black;
     }
 }
-
+/*
 @-moz-keyframes animatedHearts {
 
     5%,
@@ -145,6 +145,7 @@ b {
         text-emphasis-color: black;
     }
 }
+*/
 
 .category-btn {
     align-items: center;
