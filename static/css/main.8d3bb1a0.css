@@ -54,8 +54,12 @@ a {
 }
 
 .css-n9j9po {
-    display: block !important;
+    display: inline !important;
     padding-right: 10px !important
+}
+
+input {
+    display: flex;
 }
 
 b {
