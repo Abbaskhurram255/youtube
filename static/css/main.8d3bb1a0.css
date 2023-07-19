@@ -58,9 +58,9 @@ a {
     padding-right: 10px !important
 }
 
-/*.css-195eyf2:hover, .css-195eyf2:active, .css-195eyf2:focus {
+.css-195eyf2:hover, .css-195eyf2:active, .css-195eyf2:focus {
     margin-left: -2rem;
-}*/
+}
 
 b {
     text-emphasis: '/' !important;
