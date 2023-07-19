@@ -54,12 +54,12 @@ a {
 }
 
 .css-n9j9po {
-    display: inline !important;
+    display: block !important;
     padding-right: 10px !important
 }
 
-input {
-    display: flex;
+.css-195eyf2:hover, .css-195eyf2:active, .css-195eyf2:focus {
+    margin-left: -2rem;
 }
 
 b {
