@@ -18144,7 +18144,7 @@
                     name: "Hot & Trending",
                     icon: (0, v.jsx)(Gt.Z, {})
                 }, {
-                    name: "Music (My fave ♥)",
+                    name: "Music (♥)",
                     icon: (0, v.jsx)(Yt.Z, {})
                 }, {
                     name: "Education",
@@ -18180,7 +18180,7 @@
                     name: "Gym & Workout",
                     icon: (0, v.jsx)(ln.Z, {})
                 }, {
-                    name: "Stupid Currency",
+                    name: "Stupid Crypto",
                     icon: (0, v.jsx)(cn.Z, {})
                 }];
             var fn = function (e) {
