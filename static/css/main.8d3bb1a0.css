@@ -43,7 +43,7 @@ a {
     border: none;
     outline: none;
     width: 350px;
-    color: #aaa
+    color: #aaa;
 }
 
 .css-195eyf2 {
@@ -53,6 +53,39 @@ a {
 .css-n9j9po {
     display: block !important;
     padding-right: 10px !important
+}
+
+b {
+    -webkit-animation: animatedHearts 3s infinite;
+    -moz-animation: animatedHearts 3s infinite;
+    animation: animatedHearts 3s infinite;
+}
+
+@-webkit-keyframes animatedHearts {
+    5%, 100%{ texxt-emphasis-color: hotpink;}
+    15% { color: yellow;}
+    20%{ text-emphasis-color: pink;}
+    40%{ text-emphasis-color: red;}
+    60%{ text-emphasis-color: purple;}
+    65%{ text-emphasis-color: black;}
+}
+
+@-moz-keyframes animatedHearts {
+    5%, 100%{ texxt-emphasis-color: hotpink;}
+    15% { color: yellow;}
+    20%{ text-emphasis-color: pink;}
+    40%{ text-emphasis-color: red;}
+    60%{ text-emphasis-color: purple;}
+    65%{ text-emphasis-color: black;}
+}
+
+@keyframes animatedHearts {
+    5%, 100%{ texxt-emphasis-color: hotpink;}
+    15% { color: yellow;}
+    20%{ text-emphasis-color: pink;}
+    40%{ text-emphasis-color: red;}
+    60%{ text-emphasis-color: purple;}
+    65%{ text-emphasis-color: black;}
 }
 
 .category-btn {
@@ -93,7 +126,7 @@ a {
     }
 
     .search-bar {
-        width: 200px, color:#aaa
+        width: 200px, color: #aaa;
     }
 }
 
